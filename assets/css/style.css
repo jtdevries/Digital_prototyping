@@ -1,0 +1,46 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  margin: 0px;
+  padding: 0px;
+  width: 375px;
+  height: 812px;
+  background-color: #626262;
+  margin: 20px auto 20px auto;
+
+}
+
+.header {
+  margin: 0px;
+  padding: 0px;
+  width: 375px;
+  height: 40%;
+  border: 1px dashed red;
+}
+
+.content {
+
+}
+
+.userName {
+
+}
+
+.userPassword {
+
+}
+
+.userLogin {
+
+}
+
+.userNew {
+
+}
+
+.userLogin {
+
+}
